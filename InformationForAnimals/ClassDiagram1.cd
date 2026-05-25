@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ООП_курсач_новый.Cow" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIggAAAAAAAAEBAAAAIAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InformationForAnimals\Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.Pig" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIgAAAAAAAEAEBAAAAAAACCQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InformationForAnimals\Pig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.Сhicken" Collapsed="true">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgBIgAAAAAAAAAEBAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InformationForAnimals\Сhicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.Animal" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAIAAAAAAAAAGAAQAAIBCAhAAAAACAAAAAAAAA=</HashCode>
+      <FileName>InformationForAnimals\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.User" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAARIAAAAAA=</HashCode>
+      <FileName>ForUsers\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.UserFile" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ForUsers\UserFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.WorkWithUsers" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAAAAQEAAQAAAAAAAAAAIAAIAEAAAAAAgA=</HashCode>
+      <FileName>ForUsers\WorkWithUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.WorkWithChickens" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAABAAAAAAAkAAAAAACAAAAAAACIIAAAA=</HashCode>
+      <FileName>WorkWithChickens.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.WorkWithCows" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABIgAAAAAEAAAAAACAAAAAAgAAQIAAAAA=</HashCode>
+      <FileName>WorkWithCows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ООП_курсач_новый.WorkWithPigs" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEIAAIAAQAAAAAAAABAAAgEIAAAAA=</HashCode>
+      <FileName>WorkWithPigs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
